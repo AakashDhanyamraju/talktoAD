@@ -70,8 +70,6 @@ Git, GitHub, Docker, GitHub Actions, Postman
 
 ### Avaamo Technologies — Conversational AI Developer
 
-<img align="left" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="240" />
-
 I design and maintain enterprise conversational AI systems used at scale.
 
 My work includes backend logic, integrations, cloud deployments, and collaborating on NLP-driven solutions for large organizations such as Mondelēz, Wipro, Intel, and UCHealth.
@@ -86,8 +84,6 @@ I’m often involved in simplifying complex systems and improving performance an
 
 ### 🏠 Pick-A-Pad AI
 
-<img align="right" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="240" />
-
 An AI-powered tenant screening platform built with React and Node.js.
 
 It uses LLMs for data parsing and risk analysis, integrates with credit bureau APIs, and includes role-based admin workflows designed to meet compliance requirements.
@@ -97,8 +93,6 @@ It uses LLMs for data parsing and risk analysis, integrates with credit bureau A
 ---
 
 ### 💬 Real-Time Chat Application
-
-<img align="left" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="240" />
 
 A real-time chat application built with React and Firebase.
 
