@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me [View Resume](https://drive.google.com/file/d/1ivhelceTX0HbKwWWxndah16gY6jSivOw/view?usp=sharing)
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240" />
 
@@ -111,9 +111,9 @@ GITAM University — 2023
 
 ## 🤝 Connect
 
-- 📧 Email: aakashdhanyamraju425@gmail.com  
-- 💼 LinkedIn: add-your-link  
-- 🧑‍💻 GitHub: add-your-link  
+- 📧 Email: [aakashdhanyamraju425@gmail.com](mailto:aakashdhanyamraju425@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/aakashdhanyamraju](www.linkedin.com/in/aakashdhanyamraju)  
+- 🧑‍💻 GitHub: [https://github.com/AakashDhanyamraju](https://github.com/AakashDhanyamraju)
 
 ---
 
