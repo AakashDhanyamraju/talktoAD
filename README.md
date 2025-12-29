@@ -1,161 +1,84 @@
-# 👋 Hi, I'm Aakash Dhanyamraju
+# 👋 Hey, I’m Aakash
 
-<div align="center">
+I’m a full-stack developer and AI engineer who likes building things that actually work in the real world.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aakash%20Dhanyamraju&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+Most of my time goes into conversational AI, backend systems, and figuring out how to make LLMs useful without turning everything into a science experiment. I enjoy cleaning up messy codebases, designing systems that scale calmly, and shipping features that don’t cause surprise outages.
 
-### 🚀 AI Engineer | Conversational AI | Full Stack Developer
-
-<i>Building production-grade AI systems that talk back intelligently.</i>
-
-<br />
-
-<a href="mailto:aakashdhanyamraju425@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-</div>
+I’m not here to reinvent the wheel — just to make it roll smoother.
 
 ---
 
-## 🧠 About Me
+## 🧠 What I work on
 
-```ts
-const aakash = {
-  role: "Conversational AI Engineer",
-  focus: ["LLMs", "NLP", "RAG", "Scalable Backends"],
-  mindset: "Ship clean systems that survive production",
-  location: "Bengaluru, India"
-}
-```
+- Conversational AI & chatbots  
+- LLM-powered workflows (RAG, prompt engineering, MCP)  
+- Backend services with Node.js  
+- Cloud infrastructure on AWS  
+- Frontend apps with React & Next.js  
 
-I design enterprise-grade conversational AI systems and full-stack platforms that blend LLMs, cloud infrastructure, and modern web engineering.
-
-I enjoy breaking complex systems into understandable parts, making AI behave responsibly in production, and turning scary codebases into boring, reliable ones.
+Basically: glue code, logic, and systems that hold together under pressure.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech I’m comfortable with
 
-### Languages
+**Languages**  
+JavaScript, TypeScript, Python  
 
-* JavaScript (ES6+)
-* TypeScript
-* Python
+**Frontend**  
+React, Next.js, modern CSS  
 
-### Frontend
+**Backend**  
+Node.js, Express, REST, GraphQL, WebSockets, JWT  
 
-* React.js
-* Next.js
+**Databases & Cloud**  
+PostgreSQL, MongoDB, Redis, Supabase, AWS  
 
-### Backend
+**AI stuff**  
+LLMs, NLP, RAG, prompt engineering  
 
-* Node.js
-* Express.js
-* REST & GraphQL APIs
-* WebSockets
-* JWT Authentication
-
-### Databases & Cloud
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-* Supabase
-* AWS (S3, DynamoDB, EC2, Lambda, Elastic Beanstalk)
-
-### AI / ML
-
-* LLMs
-* NLP
-* RAG (Retrieval-Augmented Generation)
-* MCP (Model Context Protocol)
-* Prompt Engineering
+**Tools**  
+Git, GitHub, Docker, GitHub Actions, Postman
 
 ---
 
 ## 💼 Experience
 
-### Avaamo Technologies — Conversational AI Developer (May 2023 – Present)
+### Avaamo Technologies — Conversational AI Developer
+I build and maintain enterprise chatbots used by real users at scale.  
+That includes backend logic, integrations, cloud deployments, and a lot of “why is this behaving like that?” debugging.
 
-* Built enterprise conversational AI solutions for Mondelēz, Wipro, Intel, and UCHealth
-* Designed scalable, multi-tenant chatbot architectures
-* Developed custom APIs and automation workflows
-* Delivered internal tools using AWS services
-* Known for simplifying complex systems and improving maintainability
-
-### Lap Technos and Services — Full Stack Developer Intern
-
-* Built a social media platform serving 500K+ users
-* React frontend with Spring Boot backend
-* Implemented ML-based recommendations and NLP content filtering
-
-### Data Vector Pvt Ltd — Web Developer Intern
-
-* Built full-stack React platform for global photography showcases
-* Developed admin and jury dashboards
-* Optimized frontend performance and secure APIs
+I’ve worked on systems used by companies like Mondelēz, Wipro, Intel, and UCHealth, and I’m usually the person people ping when something complex needs to be simplified.
 
 ---
 
 ## 🚀 Projects
 
 ### 🏠 Pick-A-Pad AI
+An AI-powered tenant screening platform.
 
-**React | Node.js | LLMs | PostgreSQL | Supabase**
+Uses LLMs to parse messy data, analyze risk patterns, and integrate with credit bureau APIs. Comes with an admin dashboard, role-based access, and audit trails — built to be boringly reliable.
 
-* AI-powered tenant screening platform
-* LLMs for data parsing and risk analysis
-* Credit bureau API integrations
-* Deployed across 2,900+ housing units
-* SOC 2 compliant admin workflows
+---
 
-### 💬 Real-Time Chat Application
+### 💬 Real-Time Chat App
+A full-stack chat app with real-time messaging, OAuth login, file uploads, voice messages, and admin controls.
 
-**React | Firebase**
-
-* Multi-room real-time chat application
-* OAuth authentication (Google & Facebook)
-* File attachments and voice messages
-* Presence indicators and admin controls
-* Responsive mobile-first design
+Built with React and Firebase, focused on responsiveness and clean state management.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology – Computer Science**
-Gandhi Institute of Technology and Management (GITAM)
-Graduated: May 2023
+B.Tech in Computer Science  
+GITAM University — 2023
 
 ---
 
-## 🎯 Currently Exploring
+## 🤝 Around the internet
 
-* LLM evaluation and observability
-* Safer AI systems in production
-* AI system design beyond demos
-* Developer tooling for AI workflows
+- 📧 aakashdhanyamraju425@gmail.com  
+- 💼 LinkedIn: add-link  
+- 🧑‍💻 GitHub: add-link  
 
----
-
-## 🤝 Connect With Me
-
-* 📧 Email: [aakashdhanyamraju425@gmail.com](mailto:aakashdhanyamraju425@gmail.com)
-* 💼 LinkedIn: add-your-link
-* 🧑‍💻 GitHub: add-your-link
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
-</div>
+I like building useful things, learning as I go, and keeping systems calm under load.
