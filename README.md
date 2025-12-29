@@ -1,96 +1,82 @@
-# 👋 Hey, I’m Aakash
+# 👋 Hi, I’m Aakash
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 
-<i>Chill dev. Calm systems. AI that behaves.</i>
+<p><i>Building reliable AI systems and clean full-stack applications.</i></p>
 
 <br />
 
 <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Full--Stack-Developer-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-In--Production-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Production--Focused-purple?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🌱 About me (low drama version)
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240" />
 
-I’m a full‑stack developer and AI engineer who likes building things that **work quietly and reliably**.
+I’m a full-stack developer and AI engineer focused on building **production-ready systems**.
 
-Most of my time goes into conversational AI, backend systems, and figuring out how to make LLMs useful *without* turning everything into an experiment.
+Most of my work revolves around conversational AI, backend services, and LLM-powered workflows. I care a lot about maintainability, scalability, and making sure systems behave predictably once they hit real users.
 
-I enjoy:
-
-* cleaning up messy codebases
-* designing systems that scale calmly
-* shipping features that don’t wake people up at 3 AM
-
-I’m not here to reinvent the wheel — just to make it roll smoother.
+I enjoy simplifying complex systems and shipping software that holds up under pressure.
 
 ---
 
-## 🧠 What I usually work on
+## 🧠 Areas I Work In
+
+- Conversational AI & enterprise chatbots  
+- LLM workflows (RAG, prompt engineering, MCP)  
+- Backend services with Node.js  
+- Cloud infrastructure on AWS  
+- Frontend applications with React & Next.js  
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" />
 
 </div>
 
-* Conversational AI & chatbots
-* LLM-powered workflows (RAG, prompt engineering, MCP)
-* Backend services with Node.js
-* Cloud infrastructure on AWS
-* Frontend apps with React & Next.js
+**Languages**  
+JavaScript, TypeScript, Python  
 
-Basically: glue code, logic, and systems that hold together under pressure.
+**Frontend**  
+React, Next.js, modern CSS  
 
----
+**Backend**  
+Node.js, Express, REST, GraphQL, WebSockets, JWT  
 
-## 🛠 Tech I’m comfortable with
+**Databases & Cloud**  
+PostgreSQL, MongoDB, Redis, Supabase, AWS  
 
-<div align="center">
+**AI / ML**  
+LLMs, NLP, RAG, prompt engineering  
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
-
-</div>
-
-**Languages**
-JavaScript, TypeScript, Python
-
-**Frontend**
-React, Next.js, modern CSS
-
-**Backend**
-Node.js, Express, REST, GraphQL, WebSockets, JWT
-
-**Databases & Cloud**
-PostgreSQL, MongoDB, Redis, Supabase, AWS
-
-**AI stuff**
-LLMs, NLP, RAG, prompt engineering
-
-**Tools**
-Git, GitHub, Docker, GitHub Actions, Postman
+**Tools**  
+Git, GitHub, Docker, GitHub Actions, Postman  
 
 ---
 
 ## 💼 Experience
 
-<img align="left" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="260" />
-
 ### Avaamo Technologies — Conversational AI Developer
 
-I build and maintain enterprise chatbots used by real users at scale.
+<img align="left" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="240" />
 
-That includes backend logic, integrations, cloud deployments, and a lot of “why is this behaving like that?” debugging.
+I design and maintain enterprise conversational AI systems used at scale.
 
-I’ve worked on systems used by Mondelēz, Wipro, Intel, and UCHealth, and I’m usually the person people ping when something complex needs to be simplified.
+My work includes backend logic, integrations, cloud deployments, and collaborating on NLP-driven solutions for large organizations such as Mondelēz, Wipro, Intel, and UCHealth.
+
+I’m often involved in simplifying complex systems and improving performance and maintainability.
 
 <br clear="left" />
 
@@ -98,25 +84,25 @@ I’ve worked on systems used by Mondelēz, Wipro, Intel, and UCHealth, and I’
 
 ## 🚀 Projects
 
-### 🏠 Pick‑A‑Pad AI
+### 🏠 Pick-A-Pad AI
 
-<img align="right" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="240" />
 
-An AI‑powered tenant screening platform.
+An AI-powered tenant screening platform built with React and Node.js.
 
-Uses LLMs to parse messy data, analyze risk patterns, and integrate with credit bureau APIs. Comes with an admin dashboard, role‑based access, and audit trails — built to be **boringly reliable**.
+It uses LLMs for data parsing and risk analysis, integrates with credit bureau APIs, and includes role-based admin workflows designed to meet compliance requirements.
 
 <br clear="right" />
 
 ---
 
-### 💬 Real‑Time Chat App
+### 💬 Real-Time Chat Application
 
-<img align="left" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280" />
+<img align="left" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="240" />
 
-A full‑stack chat app with real‑time messaging, OAuth login, file uploads, voice messages, and admin controls.
+A real-time chat application built with React and Firebase.
 
-Built with React and Firebase, focused on responsiveness and clean state management.
+Features include multi-room chat, OAuth authentication, file uploads, voice messages, presence indicators, and responsive design.
 
 <br clear="left" />
 
@@ -124,23 +110,17 @@ Built with React and Firebase, focused on responsiveness and clean state managem
 
 ## 🎓 Education
 
-B.Tech in Computer Science
-GITAM University — 2023
+**B.Tech in Computer Science**  
+GITAM University — 2023  
 
 ---
 
-## 🤝 Around the internet
+## 🤝 Connect
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
-
-</div>
-
-* 📧 [aakashdhanyamraju425@gmail.com](mailto:aakashdhanyamraju425@gmail.com)
-* 💼 LinkedIn: [www.linkedin.com/in/aakashdhanyamraju](www.linkedin.com/in/aakashdhanyamraju)
-* 🧑‍💻 GitHub: [https://github.com/AakashDhanyamraju](https://github.com/AakashDhanyamraju)
+- 📧 Email: aakashdhanyamraju425@gmail.com  
+- 💼 LinkedIn: add-your-link  
+- 🧑‍💻 GitHub: add-your-link  
 
 ---
 
-<i>Building useful things. Keeping systems calm. Learning as I go.</i>
+<i>Focused on building dependable systems and learning continuously.</i>
