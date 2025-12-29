@@ -16,9 +16,11 @@
 
 ---
 
-## 👨‍💻 About Me [View Resume](https://drive.google.com/file/d/1ivhelceTX0HbKwWWxndah16gY6jSivOw/view?usp=sharing)
+## 👨‍💻 About Me 
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240" />
+
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1ivhelceTX0HbKwWWxndah16gY6jSivOw/view?usp=sharing)
 
 I’m a full-stack developer and AI engineer focused on building **production-ready systems**.
 
